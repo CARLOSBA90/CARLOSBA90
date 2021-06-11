@@ -3,13 +3,13 @@
 Soy programador **Java Developer Junior**, en formación profesional para ser **Fullstack Developer** con Springboot y Angular 
 
 ## Skills:
-# - Java Core
-# - Java EE (JSP, SERVLET, MAVEN)
-# - MySql
-# - CSS (Bootstrap)
-# - HTML
-# - Javascript
-# - Git
+ - Java Core
+ - Java EE (JSP, SERVLET, MAVEN)
+ - MySql
+ - CSS (Bootstrap)
+ - HTML
+ - Javascript
+ - Git
 
 
 <!--
