@@ -1,6 +1,16 @@
 ### Hola! ¿como estas? 👋
 
-Soy programador Java Developer Junior, en formación profesional para ser Fullstack Developer con Springboot y Angular 
+Soy programador **Java Developer Junior**, en formación profesional para ser **Fullstack Developer** con Springboot y Angular 
+
+## Skills:
+# - Java Core
+# - Java EE (JSP, SERVLET, MAVEN)
+# - MySql
+# - CSS (Bootstrap)
+# - HTML
+# - Javascript
+# - Git
+
 
 <!--
 **CARLOSBA90/CARLOSBA90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
