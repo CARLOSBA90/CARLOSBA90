@@ -1,6 +1,6 @@
 ### Hola! ¿como estas? 👋
 
-Soy programador **Java Developer Junior**, en formación profesional para ser **Fullstack Developer** con Springboot y Angular 
+Soy **Java Developer Junior**, en formación profesional para ser **Fullstack Developer** con Springboot y Angular 
 
 ## Skills:
  - Java Core
