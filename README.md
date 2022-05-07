@@ -7,9 +7,11 @@ Soy **Java Developer Junior**, en formación profesional para ser **Fullstack De
  - Java EE    (Framework: Spring)
  - Typescript (Framework: Angular)
  - CSS        (Framework: Bootstrap)
- - MySql       
+ - MySql, SQL Server       
  - HTML5
  - Javascript nativo
+ - Jquery
+ - PHP
  - Git       (Github)
  - Maven     
 
