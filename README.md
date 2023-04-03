@@ -1,17 +1,18 @@
 ### Hola! ¿como estas? 👋
 
-Soy **Java Developer Junior**, en formación profesional para ser **Fullstack Developer** con Springboot y Angular 
+Soy **Java Developer Junior**, en formación profesional para ser **Fullstack Developer**
 
 ## Skills:
  - Java Core
  - Java EE    (Framework: Spring)
  - Typescript (Framework: Angular)
  - CSS        (Framework: Bootstrap)
+ - PHP        (Framework: Laravel)
  - MySql, SQL Server       
  - HTML5
- - Javascript nativo
+ - Javascript Nativo
  - Jquery
- - PHP
  - Git       (Github)
  - Maven     
+  
 
