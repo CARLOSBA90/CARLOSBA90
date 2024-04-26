@@ -1,16 +1,11 @@
-### Hola! ¿como estas? 👋
-
-Soy **Java Developer Junior**, en formación profesional para ser **Fullstack Developer**
-
+### Hola! 👋
 ## Skills:
- - Java Core
- - Java EE    (Framework: Spring)
- - Typescript (Framework: Angular, Ionic)
- - CSS        (Framework: Bootstrap)
- - PHP        
- - SQL        (MySql, MS SQL)      
- - HTML5
- - Javascript (Framework: JQuery)
- - Git       (Github)
+ - Typescript (Angular, Ionic)
+ - Javascript (NodeJs)
+ - CSS        (Tailwinds, Bootstrap)
+ - SQL        (MySQL, MS SQL)  
+ - Java EE    (Spring, JavaFX)
+ -  PHP        
+
   
 
