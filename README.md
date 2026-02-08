@@ -1,11 +1,8 @@
 # Hola, soy Carlos Peña 👋
 ### Software Developer | Java & Angular
-
-Desarrollador de software.
-Me especializo en la construcción de sistemas de gestión (ERP, CRM) y arquitecturas escalables, combinando la robustez de **Java Spring Boot** con la agilidad de **Angular/Ionic**.
-
-Actualmente enfocado en el desarrollo de soluciones integrales que resuelven problemas de negocio reales, desde la gestión de inventarios hasta plataformas de e-commerce.
-
+ 
+Me especializo en la construcción de sistemas de gestión (ERP, ECOMMERCE, CRM, WMS) y arquitecturas escalables, combinando la robustez de **Java Spring Boot** con la agilidad de **Angular/Ionic**.
+ 
 ---
 
 ## 🛠️ Tech Stack & Herramientas
