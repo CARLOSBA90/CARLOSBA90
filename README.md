@@ -26,6 +26,9 @@ Me especializo en la construcción de sistemas de gestión (ERP, ECOMMERCE, CRM,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
+![Estadísticas de CARLOSBA90](https://github-readme-stats.vercel.app/api?username=CARLOSBA90&show_icons=true&theme=algolia)
+
+![Racha de CARLOSBA90](https://github-readme-streak-stats.herokuapp.com/?user=CARLOSBA90&theme=algolia)
 
 ## 📂 Proyectos Destacados
 
