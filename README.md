@@ -46,6 +46,11 @@ Aplicación full-stack para la administración de ventas e inventario en tiempo 
 * **Tech:** Java, MySQL, Docker.
 * **Impacto:** Control de stock, dashboards de ventas y emisión de facturas.
 
+### 📧 [Mailing Service Microservice](https://github.com/CARLOSBA90/mailing-service-springboot)
+Microservicio backend diseñado para la orquestación y envío de correos electrónicos.
+* **Tech:** Spring Boot, JavaMailSender, REST API.
+* **Features:** Envío de correos transaccionales, soporte para plantillas HTML y manejo de adjuntos.
+  
 ---
 
 ## 🎓 Educación y Certificaciones
