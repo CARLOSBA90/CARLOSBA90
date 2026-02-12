@@ -28,11 +28,8 @@ Me especializo en la construcción de sistemas de gestión (ERP, ECOMMERCE, CRM,
 ---
   
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CARLOSBA90&show_icons=true&theme=algolia&count_private=true&cache_seconds=1800" height="180" alt="stats graph" /> 
-</div>
- 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CARLOSBA90&theme=algolia&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CARLOSBA90&show_icons=true&theme=algolia&count_private=true&cache_seconds=1800" height="170" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com/?user=CARLOSBA90&theme=algolia&hide_border=true" height="170" alt="streak graph" />
 </div>
 
 ---
