@@ -1,8 +1,8 @@
 # Hola, soy Carlos Peña 👋
 ### Software Developer | Java & Angular
- 
+
 Me especializo en la construcción de sistemas de gestión (ERP, ECOMMERCE, CRM, WMS) y arquitecturas escalables, combinando la robustez de **Java Spring Boot** con la agilidad de **Angular/Ionic**.
- 
+
 ---
 
 ## 🛠️ Tech Stack & Herramientas
@@ -26,9 +26,19 @@ Me especializo en la construcción de sistemas de gestión (ERP, ECOMMERCE, CRM,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-![Estadísticas de CARLOSBA90](https://github-readme-stats-eight-theta.vercel.app/api?username=CARLOSBA90&show_icons=true&theme=algolia)
 
-![Racha de CARLOSBA90](https://github-readme-streak-stats.herokuapp.com/?user=CARLOSBA90&theme=algolia)
+## 📊 Estadísticas GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CARLOSBA90&show_icons=true&theme=algolia&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CARLOSBA90&layout=compact&theme=algolia&hide_border=true&langs_count=6" height="180" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CARLOSBA90&theme=algolia&hide_border=true" alt="streak graph" />
+</div>
+
+---
 
 ## 📂 Proyectos Destacados
 
