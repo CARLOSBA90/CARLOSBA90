@@ -36,10 +36,10 @@ Me especializo en la construcción de sistemas de gestión (ERP, ECOMMERCE, CRM,
 
 ## 📂 Proyectos Destacados
 
-### 🛒 [Ecommerce API](https://cepr0.com)
+### 🛒 [Ecommerce](https://cepr0.com)
 Arquitectura basada en Spring Boot para la gestión de pedidos y productos.
-* **Tech:** Java 17, Spring Data JPA, Swagger UI.
-* **Features:** Gestión de carritos, procesamiento de órdenes y documentación REST interactiva.
+* **Tech:** Java 17, Spring Data JPA, Angular, Docker.
+* **Features:** Gestión de carritos, procesamiento de órdenes.
 
 ### 🖥️ [Sistema de Punto de Venta (PDV)](https://cepr0.com)
 Aplicación full-stack para la administración de ventas e inventario en tiempo real.
