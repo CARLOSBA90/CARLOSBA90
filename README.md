@@ -1,7 +1,7 @@
 # Hola, soy Carlos Peña 👋
 ### Software Developer | Java & Angular
 
-Me especializo en la construcción de sistemas de gestión y arquitecturas escalables, combinando la robustez de **Java Spring Boot** con la agilidad de **Angular/Ionic**.
+Me especializo en la construcción de sistemas de gestión y arquitecturas escalables, combinando la robustez de **Java Spring Boot** con la agilidad de **Angular**.
 
 ---
 
