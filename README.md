@@ -1,21 +1,13 @@
-## Hola, soy Carlos Peña 
-
 Desarrollador de Software, me dedico a sistemas de gestión y arquitecturas escalables. Enfocado en **Spring Boot (Java)** para el backend y **Angular (Typescript)** para el frontend. 
 
-<div align="center">
-#### ☕ Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-#### 🎨 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### 🗄️ Datos & Infraestructura
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&cubeColor=white)
-</div>
+
   
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CARLOSBA90&show_icons=true&theme=algolia&count_private=true&cache_seconds=1800" height="170" alt="stats graph" />
